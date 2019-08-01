@@ -138,3 +138,4 @@ ur_PK | Urdu - Pakistan
 Cy_uz_UZ | Uzbek (Cyrillic) - Uzbekistan
 Lt_uz_UZ | Uzbek (Latin) - Uzbekistan
 vi_VN | Vietnamese - Vietnam
+Am_ETH| Amharic - Ethiopia
